@@ -8,3 +8,6 @@ To use the two python codes to generates inputs files, you need:
     - Frozen_orbital.xlsx
     - A folder named "geom" with each geometry as .txt file
     - A folder named "basis2" with each basis set as .txt file for molpro only
+
+# Other codes
+The other python files are mostly saved function that were usesull during my PhD
