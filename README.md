@@ -3,7 +3,7 @@ Python scripts written during gradschool and not updated since then
 
 
 # How to use the codes
-To use the two python codes, you need:
+To use the two python codes to generates inputs files, you need:
     - multiplicty.xlsx
     - Frozen_orbital.xlsx
     - A folder named "geom" with each geometry as .txt file
